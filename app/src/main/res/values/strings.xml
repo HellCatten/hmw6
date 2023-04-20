@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hmw6</string>
+    <string name="explanation">Введите диапозон из 2-х чисел</string>
+    <string name="calc">Рассчитать</string>
+</resources>
